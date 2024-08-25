@@ -1,6 +1,6 @@
 site_name: API Homework-4
 site_description: An example of API documentation
-theme: readthedocs
+
 nav:
   - Главная страница: index.md
   - Назначение: about.md
